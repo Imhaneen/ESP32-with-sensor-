@@ -1,6 +1,6 @@
 # ESP32 Trafic Light with Ultrasonic Sensor
 ******
-## Introduction 
+## What does this project do?
 ****** 
 This project effectively reads distances using an ultrasonic sensor and provides visible reaction through LEDs based on predefined distance thresholds. 
 ****
