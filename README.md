@@ -1,4 +1,4 @@
-# ESP32 Trafic Light with Ultrasonic Sensor
+# ESP32 Traffic Light with Ultrasonic Sensor
 ******
 ## What does this project do?
 ****** 
